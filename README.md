@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @raghavdharani
-- 👀 I’m interested in taking up coding and developing automation applications
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new ideas and projects
+Hi, I’m Raghav
 
+🧩 Product Manager with over a decade of experience shaping data-driven, customer-focused technology products across retail and enterprise domains
 
-<!---
-raghavdharani/raghavdharani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about blending product thinking with emerging technologies like AI and automation to create scalable, impactful solutions
+
+🧠 Currently exploring bringing AI-driven insights into everyday tools
+
+🤝 I enjoy collaborating with developers, designers, and innovators to turn complex ideas into elegant, real-world products
