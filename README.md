@@ -6,7 +6,7 @@ I have spent 10+ years turning operational complexity into products people can u
 
 I am at my best when the problem is still untidy: the customer signal is incomplete, the workflow crosses several systems, and the team needs a practical path from ambiguity to adoption.
 
-[Portfolio](https://raghav-dharani-portfolio.ragsroolz.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/raghavdharani) · [Email](mailto:raghav.dr@gmail.com) · [Public projects](https://github.com/raghavdharani?tab=repositories)
+[Portfolio](https://raghavdharani.github.io/) · [LinkedIn](https://www.linkedin.com/in/raghavdharani) · [Email](mailto:raghav.dr@gmail.com) · [Public projects](https://github.com/raghavdharani?tab=repositories)
 
 ---
 
@@ -89,7 +89,7 @@ Platform adoption increased by 50%. EdgeVerve was recognized as a Strong Perform
 - Better ways to model roadmap alternatives without creating false certainty
 - Commerce and operational systems where edge cases matter as much as the primary flow
 
-This profile is the index. The [portfolio](https://raghav-dharani-portfolio.ragsroolz.chatgpt.site) holds the deeper case studies, and I will keep adding working products as they are ready to share publicly.
+This profile is the index. The [portfolio](https://raghavdharani.github.io/) holds the deeper case studies, and I will keep adding working products as they are ready to share publicly.
 
 ## Background
 
